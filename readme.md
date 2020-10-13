@@ -1,0 +1,1 @@
+A simple example for empirical estimation of MMD distance.
